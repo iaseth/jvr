@@ -1,0 +1,22 @@
+{
+  "name": "jvr",
+  "version": "0.1.0",
+  "description": "JSON viewer for Terminal.",
+  "main": "src/jvr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaseth/jvr.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Ankur Seth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iaseth/jvr/issues"
+  },
+  "homepage": "https://github.com/iaseth/jvr#readme"
+}
